@@ -14,7 +14,7 @@ I focus on **greenfield development**, laying the groundwork for robust, maintai
 - 💡 **Passionate About:** Turning ideas into **production-ready** software from the ground up.  
 
 ## 📊 GitHub Stats  
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=deafjava&show_icons=true&theme=dark)  
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=deafjava&show_icons=true&theme=dark&count_private=true)  
 
 ## 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deafjava&layout=compact&theme=dark&langs_count=8)  
